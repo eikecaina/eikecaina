@@ -1,4 +1,4 @@
-### Hi, I'm Eike! :cowboy_hat_face:
+### Hi, I'm Eike! :smile_cat:
 - 💻 Junior Developer focusing on Java studies!
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
