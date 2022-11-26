@@ -6,7 +6,7 @@
 
 ---
 
-### Languages:
+### Infos:
  
  <div align="left">
   <a href="https://github.com/eikecaina">
