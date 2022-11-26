@@ -16,6 +16,8 @@
 
 <a href="https://www.linkedin.com/in/eike-hank-89a5741a4/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
+---
+
 ### 🛠️ Languages and Tools	
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
