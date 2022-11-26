@@ -7,8 +7,13 @@
 ---
 
 ### Languages:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikecaina&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  
+ <div align="left">
+  <a href="https://github.com/eikecaina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eikecaina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikecaina&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
  ---
  
  ### You can find me here:
