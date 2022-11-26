@@ -34,7 +34,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ &nbsp;
+  <img src="https://github.com/JhonathanRibeiro/CypressIcons/blob/main/icons/icon_128x128.png" title="Cypress" **alt="Cypress" width="40" height="40"/>
 </div>
+ 
 
 ---   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/65792157/204108530-badf8507-72eb-452b-aad8-147bad02a62f.svg)
