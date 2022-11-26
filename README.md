@@ -18,8 +18,9 @@
  
  ### You can find me here
 
+ <a href="https://www.linkedin.com/in/eike-hank-89a5741a4/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>&nbsp;<a href="mailto:cainaeike@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c71610" target="_blank"></a>    
+ 
 
-<a href="https://www.linkedin.com/in/eike-hank-89a5741a4/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
 ---
 
