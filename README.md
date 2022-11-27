@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Eike+Hank!;Junior+Developer+Java!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Eike+Hank!;Junior+Java+Developer)](https://git.io/typing-svg)
 - 💻 Junior Developer focusing on Java studies!
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
