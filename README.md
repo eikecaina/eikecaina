@@ -1,14 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Eike+Hank!;Junior+Java+Developer)](https://git.io/typing-svg)
+
+
+<h3 align="center">Infos</h3>
+
 - 💻 Junior Developer focusing on Java studies!
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
-- 👼 I care about write a readable code and with software quality
+- 👼 I care about write a readable code and with software quality     
+
 
 ---
 
-### Infos
- 
- <div align="left">
+<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+
+ <div align="center">
   <a href="https://github.com/eikecaina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eikecaina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikecaina&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,16 +21,18 @@
   
  ---
  
- ### You can find me here
+ <h3 align="center">You can find me here</h3>
 
- <a href="https://www.linkedin.com/in/eike-hank-89a5741a4/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>&nbsp;<a href="mailto:cainaeike@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c71610" target="_blank"></a>    
+ <div align="center"><a href="https://www.linkedin.com/in/eike-hank-89a5741a4/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>&nbsp;<a href="mailto:cainaeike@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c71610" target="_blank"></a>    
+ </div>
  
 
 
 ---
 
-### 🛠️ Languages and Tools	
-<div>
+ <h3 align="center">🛠️Languages and Tools</h3>
+
+ <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -41,4 +48,4 @@
  
 
 ---   
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/65792157/204108530-badf8507-72eb-452b-aad8-147bad02a62f.svg)
+### ![github-contribution-grid-snake](https://user-images.githubusercontent.com/65792157/204108530-badf8507-72eb-452b-aad8-147bad02a62f.svg)
