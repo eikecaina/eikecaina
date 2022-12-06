@@ -3,7 +3,7 @@
 
 <h3 align="center">Infos</h3>
 
-- 💻 Junior Developer learning on Java studies!
+- 💻 Junior Developer learning Java!
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
 - 👼 I care about write a clean code
