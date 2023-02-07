@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Eike+Hank!;Junior+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Eike+Hank!;Junior+Developer)](https://git.io/typing-svg)
 
 
 <h3 align="center">Infos</h3>
 
-- 💻 Junior web Developer!
+- 💻 Junior Developer!
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
 - 👼 I care about write a clean code
