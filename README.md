@@ -7,6 +7,7 @@
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
 - 👼 I care about write a clean code
+- Repo Frontend https://eikecaina.github.io/frontend-projetos/index.html
 
 
 ---
